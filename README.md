@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0605-can-place-flowers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
