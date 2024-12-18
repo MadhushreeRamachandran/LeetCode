@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
 | ------- |
