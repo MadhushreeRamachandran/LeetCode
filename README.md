@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2868-continuous-subarrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
