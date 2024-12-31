@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
