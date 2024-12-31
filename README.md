@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0605-can-place-flowers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0392-is-subsequence) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0605-can-place-flowers) |
 | [1917-maximum-average-pass-ratio](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
