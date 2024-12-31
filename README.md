@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0283-move-zeroes](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0739-daily-temperatures) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MadhushreeRamachandran/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
